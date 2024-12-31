@@ -1,0 +1,23 @@
+project-portfolio/
+│
+├── index.html            # Halaman utama
+├── css/
+│   ├── style.css         # Gaya utama
+│   ├── animations.css    # Animasi khusus
+│
+├── js/
+│   ├── main.js           # Skrip interaktif
+│   ├── form.js           # Validasi form kontak
+│
+├── images/               # Folder untuk gambar
+│   ├── profile.jpg       # Foto profil
+│   ├── project1.png      # Contoh karya
+│   ├── project2.png
+│
+├── works/                # Folder untuk karya proyek
+│   ├── project1.html     # Halaman detail proyek
+│   ├── project2.html
+│
+└── assets/               # Folder tambahan
+    ├── fonts/            # Font custom
+    ├── icons/            # Ikon sosial media
